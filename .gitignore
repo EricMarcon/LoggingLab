@@ -7,3 +7,5 @@ Potentialimprovements
 .Rhistory
 /doc/
 /Meta/
+# pkgdown run by CI
+/docs/
